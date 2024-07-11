@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "769090002849",
+    "firebase_url": "https://math-key-7bedf.firebaseio.com",
+    "project_id": "math-key-7bedf",
+    "storage_bucket": "math-key-7bedf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769090002849:android:e5cbddf73743fcb336b5e0",
+        "android_client_info": {
+          "package_name": "com.example.math_fire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769090002849-1v8aq1f1mqsngi8k3nrh4reve6l4shs4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKm5xJcQKXOZPGZQ8YGiCKQAniczsyRFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769090002849-1v8aq1f1mqsngi8k3nrh4reve6l4shs4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769090002849:android:609889ee32d96b5736b5e0",
+        "android_client_info": {
+          "package_name": "com.example.prow_math"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769090002849-1v8aq1f1mqsngi8k3nrh4reve6l4shs4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKm5xJcQKXOZPGZQ8YGiCKQAniczsyRFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769090002849-1v8aq1f1mqsngi8k3nrh4reve6l4shs4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
